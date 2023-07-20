@@ -1,0 +1,11 @@
+D:\DotNet Helping Material\Assignment-C\Assignment-C\bin\Debug\Assignment-C.exe.config
+D:\DotNet Helping Material\Assignment-C\Assignment-C\bin\Debug\Assignment-C.exe
+D:\DotNet Helping Material\Assignment-C\Assignment-C\bin\Debug\Assignment-C.pdb
+D:\DotNet Helping Material\Assignment-C\Assignment-C\obj\Debug\Assignment-C.csproj.AssemblyReference.cache
+D:\DotNet Helping Material\Assignment-C\Assignment-C\obj\Debug\Assignment-C.csproj.SuggestedBindingRedirects.cache
+D:\DotNet Helping Material\Assignment-C\Assignment-C\obj\Debug\Assignment-C.csproj.CoreCompileInputs.cache
+D:\DotNet Helping Material\Assignment-C\Assignment-C\obj\Debug\Assignment-C.exe
+D:\DotNet Helping Material\Assignment-C\Assignment-C\obj\Debug\Assignment-C.pdb
+D:\DotNet Helping Material\Assignment-C\Assignment-C\bin\Debug\Newtonsoft.Json.dll
+D:\DotNet Helping Material\Assignment-C\Assignment-C\bin\Debug\Newtonsoft.Json.xml
+D:\DotNet Helping Material\Assignment-C\Assignment-C\obj\Debug\Assignment-C.csproj.CopyComplete

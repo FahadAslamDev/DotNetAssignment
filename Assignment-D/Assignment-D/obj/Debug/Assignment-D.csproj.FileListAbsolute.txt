@@ -1,0 +1,8 @@
+D:\DotNet Helping Material\Assignment-D\Assignment-D\obj\Debug\Assignment-D.csproj.AssemblyReference.cache
+D:\DotNet Helping Material\Assignment-D\Assignment-D\obj\Debug\Assignment-D.csproj.SuggestedBindingRedirects.cache
+D:\DotNet Helping Material\Assignment-D\Assignment-D\obj\Debug\Assignment-D.csproj.CoreCompileInputs.cache
+D:\DotNet Helping Material\Assignment-D\Assignment-D\bin\Debug\Assignment-D.exe.config
+D:\DotNet Helping Material\Assignment-D\Assignment-D\bin\Debug\Assignment-D.exe
+D:\DotNet Helping Material\Assignment-D\Assignment-D\bin\Debug\Assignment-D.pdb
+D:\DotNet Helping Material\Assignment-D\Assignment-D\obj\Debug\Assignment-D.exe
+D:\DotNet Helping Material\Assignment-D\Assignment-D\obj\Debug\Assignment-D.pdb
